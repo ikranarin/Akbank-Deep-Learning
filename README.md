@@ -7,7 +7,7 @@ Projenin amacı, **sıfırdan CNN modeli** tasarlayarak kedileri ve köpekleri a
 - **Veri Önişleme ve Augmentation**: Resize, normalize, horizontal flip, rotation, color jitter
 - **Model Değerlendirme**: Accuracy, Confusion Matrix, Classification Report
 - **Açıklanabilirlik**: Grad-CAM ile modelin dikkat ettiği bölgelerin görselleştirilmesi
-Proje yalnızca scratch’tan CNN modeli kullanılarak yapılmıştır. Transfer learning gibi ek yöntemler opsiyonel olarak bırakılmış, kullanılmamıştır.
+- Proje yalnızca scratch’tan CNN modeli kullanılarak yapılmıştır. Transfer learning gibi ek yöntemler opsiyonel olarak bırakılmış, kullanılmamıştır.
 ### Kullandığım Dataset
 https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset
 ## Metrikler
