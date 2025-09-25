@@ -1,4 +1,4 @@
-# Akbank-Deep-Learning
+# Akbank Deep Learning Project
 ## Giriş
 Bu projede Microsoft Cats vs Dogs veri seti kullanılarak görüntü sınıflandırma yapılmıştır.  
 Projenin amacı, **sıfırdan CNN modeli** tasarlayarak kedileri ve köpekleri ayırt edebilen bir yapay zekâ modeli geliştirmektir.
