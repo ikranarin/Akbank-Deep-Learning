@@ -24,11 +24,13 @@ Projeye dair ek çalışmalar:
 - **Grad-CAM**: Modelin hangi bölgelerden etkilendiği görselleştirilmiştir.
 - GPU imkânı olmadığı için eğitim CPU üzerinde daha kısa tutulmuş (3 epoch) ve hızlı bir demo yapılmıştır.
 ## Sonuç ve Gelecek Çalışmalar
-Bu proje sonucunda scratch’tan tasarlanmış bir CNN modelinin, kısa eğitim süresiyle bile anlamlı bir doğruluk elde edebildiği görülmüştür.  
-
+Bu proje sonucunda scratch’tan tasarlanmış bir CNN modelinin, kısa eğitim süresiyle bile anlamlı bir doğruluk elde edebildiği görülmüştür.
 Gelecek çalışmalar:
 - Daha uzun eğitim (10–15 epoch) ve GPU kullanımıyla %85+ doğruluk
 - Farklı CNN mimarilerinin (VGG, EfficientNet) denenmesi
 - Daha güçlü regularization (L2 penalty, daha farklı dropout oranları)
 - Veri seti dengesizliğini azaltmak için advanced augmentation teknikleri
 - Kullanıcı arayüzü (ör. Streamlit) eklenerek modelin interaktif hale getirilmesi
+## Linkler
+Çalışmama ait kaggle linkim:
+https://www.kaggle.com/code/ikranarinsoran/akbank-deep-learning-bootcamp-eyl-l-2025
